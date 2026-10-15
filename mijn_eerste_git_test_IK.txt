@@ -1,0 +1,3 @@
+Naam: Isabelle
+Datum: 15-10-2026
+Dit is mijn eerste Git wijziging.

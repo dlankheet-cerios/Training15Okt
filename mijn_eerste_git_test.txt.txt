@@ -1,0 +1,5 @@
+a.	Naam: Benno
+b.	Datum: 15-10-2026
+c.	Dit is mijn eerste Git wijziging
+
+DIT IS FOUT

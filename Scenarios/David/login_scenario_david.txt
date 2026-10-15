@@ -1,0 +1,7 @@
+opdracht 6 david
+
+	
+Scenario: Login met geldige gebruiker
+Given gebruiker bestaat
+When gebruiker juiste credentials invoert
+Then gebruiker wordt ingelogd
